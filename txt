@@ -14,3 +14,16 @@ git rm -r --cached имя_файла_или_папки
 git commit -m "Удалил файлы из индекса"
 
 git status информация 
+
+$ git branch узнать свой 
+
+созданий новой ветки 
+git branch test <= это новый имя пользователя
+для удалений ветки
+$ git branch -D test <= названий ветки
+
+переключений на другую ветку 
+$ git checkout test
+
+Создать и сразу переключиться 
+$ git checkout -b new

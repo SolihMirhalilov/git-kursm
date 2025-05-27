@@ -7,3 +7,10 @@ git add .
 git add имя_файла
 
 git commit -m "Первый коммит"
+
+Убери файл из индекса (но не удаляй с диска):
+git rm --cached имя_файла
+git rm -r --cached имя_файла_или_папки
+git commit -m "Удалил файлы из индекса"
+
+git status информация 

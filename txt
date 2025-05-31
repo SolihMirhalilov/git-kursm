@@ -27,3 +27,10 @@ $ git checkout test
 
 Создать и сразу переключиться 
 $ git checkout -b new
+$ git config --global user.name "" <= agar kerak bolsa
+$ git config --global user.email ""<= agar kerak bolsa
+
+Github togirlangandan song 
+ssilkani qoyilinadi(git remove...........)
+git push -u origin master <= borga vetkaniki yozilinadi
+
